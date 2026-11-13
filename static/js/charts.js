@@ -1,0 +1,1 @@
+/* Charts are rendered with database values by the dashboard template. */
